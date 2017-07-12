@@ -7,7 +7,7 @@ It allows to access remote SQL databases and/or SQL databases in the cloud by si
 Main features:
 
 * This sample project was created with Android studio 2.3.1
-* It will run on any Andoid device with Api Level 19 (Android version 4.4 KitKat) or more.
+* It will run on any Andoid device with Api Level 19 (Android version 4.4 KitKat) or later.
 * The Java Client SDK is licensed through the liberal Apache 2.0 license.
 
 For more info on AceQL HTTP Java Client SDK, see <a href="https://www.aceql.com/documentation">AceQL HTTP Documentation</a> page.
