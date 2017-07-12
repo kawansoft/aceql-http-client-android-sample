@@ -1,0 +1,7 @@
+#Mon May 29 21:54:13 CEST 2017
+base.0=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_161eb05a70530a96e5204d937b0734c15adbf075
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b078edf6feb94332b1e0ad9382d0d02f63942843/classes.dex
+base.1=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b078edf6feb94332b1e0ad9382d0d02f63942843
+file.0=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_161eb05a70530a96e5204d937b0734c15adbf075/classes.dex

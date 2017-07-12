@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Mon May 29 21:54:13 CEST 2017
+2.base=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_161eb05a70530a96e5204d937b0734c15adbf075
+5.file=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_action_search.png
+5.set=ANDROID_RESOURCE
+3.base=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b078edf6feb94332b1e0ad9382d0d02f63942843/classes.dex
+2.set=DEX
+4.base=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/org/glassfish/json/messages.properties
+7.set=JAVA_RESOURCE
+count=9
+0.file=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+5.base=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/res/resources-debug.ap_
+8.file=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b078edf6feb94332b1e0ad9382d0d02f63942843
+1.file=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+1.set=ANDROID_RESOURCE
+7.base=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
+2.file=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_161eb05a70530a96e5204d937b0734c15adbf075/classes.dex
+6.set=DEX
+0.base=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/res/resources-debug.ap_
+8.base=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

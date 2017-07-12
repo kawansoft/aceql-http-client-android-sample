@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/alex/AndroidStudioProjects/aceql-android-test/libs/commons-io-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/pre-dexed/debug/commons-io-2.5_168426e3109ccfc10c91834159f8770278aba758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alex/.android/build-cache/a6b0e18f5810c3104036a3a3e83ce15fe8092d36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/pre-dexed/debug/classes_2526674e0048b806b7b15ebd5f0177840ff3c5bc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/AndroidStudioProjects/aceql-android-test/libs/commons-io-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-io-2.5_168426e3109ccfc10c91834159f8770278aba758/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alex/AndroidStudioProjects/aceql-android-test/libs/aceql-client-1.0-beta.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a10ae4229081bf633d91a3354ea6f7ca036ac32">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/pre-dexed/debug/aceql-client-1.0-beta.1_7c892fcf6fdfa9eeaa55c43d0a93206c2830c09b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/AndroidStudioProjects/aceql-android-test/libs/commons-lang3-3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-lang3-3.5_8a8a28a2ddd8dcc29eb65c939eeae89ef6a23bd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/AndroidStudioProjects/aceql-android-test/libs/javax.json-1.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3178f73569fd7a1e5ffc464e680f7a8cc784b85a">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/dex/debug/folders/1000/2/javax.json-1.0.4_b20bda9eef8613f85aca0e230e80b09d9c4d46a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/AndroidStudioProjects/aceql-android-test/libs/aceql-client-1.0-beta.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a10ae4229081bf633d91a3354ea6f7ca036ac32">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/dex/debug/folders/1000/2/aceql-client-1.0-beta.1_7c892fcf6fdfa9eeaa55c43d0a93206c2830c09b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alex/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_8b24408ce880f5aef07f05299ae0b830caec62f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alex/AndroidStudioProjects/aceql-android-test/libs/javax.json-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3178f73569fd7a1e5ffc464e680f7a8cc784b85a">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/pre-dexed/debug/javax.json-1.0.4_b20bda9eef8613f85aca0e230e80b09d9c4d46a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alex/.android/build-cache/624143bd2e41cb9f80bafaa964b710932af43940/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/pre-dexed/debug/classes_9e28d500f16e857a429cdc968423facb42fbabb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alex/AndroidStudioProjects/aceql-android-test/libs/commons-lang3-3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/pre-dexed/debug/commons-lang3-3.5_8a8a28a2ddd8dcc29eb65c939eeae89ef6a23bd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alex/.android/build-cache/d517d323b4cb3b83878780f447564709dfa460ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/pre-dexed/debug/classes_ca2326079d389a1149c21a7a409dcec60a11d83f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_161eb05a70530a96e5204d937b0734c15adbf075/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a0e1b10bb0314588d5c1d63c620c1993755f200">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b078edf6feb94332b1e0ad9382d0d02f63942843/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alex/.android/build-cache/7a13d831403fe9e79546751e3cfb7263d3d9a5c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/pre-dexed/debug/classes_6927a79ba8f17712129b9c2584283f24da8980eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alex/.android/build-cache/caf16b3ef5d54b695abacd9e25f3175783814d4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/pre-dexed/debug/classes_05553d0e9f19781544fd345bc081122586569da7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alex/.android/build-cache/6f3354cbaf96f2106f575064cc28e2a42ff2992a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/alex/AndroidStudioProjects/aceql-android-test/app/build/intermediates/pre-dexed/debug/classes_23ed2b276a2831cee27eb9f65ca356b3c03160bd.jar" />
+    </item>
+
+</items>
