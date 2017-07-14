@@ -1,7 +1,7 @@
 # aceql-http-client-android-sample
 <img src="https://www.aceql.com/favicon.png" alt=""/>
 
-This is a sample Android application that shows how to use <a href=">AceQL HTPP Java Client SDK</a> within Android applications.
+This is a sample Android application that shows how to use <a href="https://github.com/kawansoft/aceql-http-client-sdk">AceQL HTTP Java Client SDK</a> within Android applications.
 It allows to access remote SQL databases and/or SQL databases in the cloud by simply including standard JDBC calls in the code, just like for a local database.
 
 Main features:
