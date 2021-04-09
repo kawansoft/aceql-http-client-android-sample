@@ -10,7 +10,7 @@ Main features:
 * It will run on any Andoid device with Api Level 19 (Android version 4.4 KitKat) or later.
 * The Java Client SDK is licensed through the liberal Apache 2.0 license.
 
-For more info on AceQL Client JDBC Driver, see <a href="https://www.aceql.com/documentation">AceQL HTTP Documentation</a> page.
+For more info on the AceQL Client JDBC Driver, see <a href="https://www.aceql.com/documentation">AceQL HTTP Documentation</a> page.
 
 
 
