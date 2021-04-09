@@ -98,7 +98,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 try {
                     clicked = true;
                     MyRemoteConnection.aceqlCodeToRun();
-                } catch (SQLException | IOException e) {
+                } catch (SQLException | IOException | ClassNotFoundException e) {
 
                     e.printStackTrace();
                 }

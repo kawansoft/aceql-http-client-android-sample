@@ -24,11 +24,13 @@
  */
 package org.kawanfw.test.util;
 
+import com.aceql.jdbc.commons.main.util.framework.FrameworkSystemUtil;
+import com.aceql.jdbc.commons.main.util.framework.Tag;
+
 import java.lang.reflect.Method;
 import java.util.Date;
 
-import org.kawanfw.driver.util.FrameworkSystemUtil;
-import org.kawanfw.driver.util.Tag;
+
 
 /**
  * This class is used in all tests to display messages If verbose mode is on all

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/aceql-android-test.iml" filepath="$PROJECT_DIR$/aceql-android-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/libs/libs.iml" filepath="$PROJECT_DIR$/libs/libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aceql-http-client-android-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/aceql-http-client-android-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/aceql-http-client-android-sample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/aceql-http-client-android-sample.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libs/aceql-http-client-android-sample.libs.iml" filepath="$PROJECT_DIR$/.idea/modules/libs/aceql-http-client-android-sample.libs.iml" />
     </modules>
   </component>
 </project>

@@ -2,9 +2,9 @@ package org.kawanfw.sql.android;
 
 public class Version {
 
-	private static String APP_NAME = "Awake SQL Demo";
-	private static String APP_VERSION = "v4.0 - 27-nov-2015";
-	private static String COPYRIGHT = "\u00a9 KawanSoft";
+	private static final String APP_NAME = "Awake SQL Demo";
+	private static final String APP_VERSION = "v5.0 - 08-apr-2021";
+	private static final String COPYRIGHT = "\u00a9 KawanSoft";
 	
 	public static String getFullVersion(){
 		

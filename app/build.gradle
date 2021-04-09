@@ -1,8 +1,8 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 25
-    buildToolsVersion "25.0.2"
+    compileSdkVersion 30
+    buildToolsVersion '30.0.3'
 
     defaultConfig {
         applicationId "org.kawanfw.sql.android"
@@ -16,12 +16,16 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+    compileOptions {
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
 }
 
 dependencies {
+    implementation files('../libs/aceql-http-client-jdbc-driver-6.0.jar')
+    implementation files('../libs/commons-io-2.6.jar')
+    implementation files('../libs/commons-lang3-3.8.1.jar')
+    implementation files('../libs/gson-2.8.6.jar')
+    implementation files('../libs/javax.json-1.1.4.jar')
     compile 'com.android.support:support-v4:25.3.1'
-    compile files('../libs/aceql-client-1.0-beta.1.jar')
-    compile files('../libs/commons-io-2.5.jar')
-    compile files('../libs/commons-lang3-3.5.jar')
-    compile files('../libs/javax.json-1.0.4.jar')
 }

@@ -18,20 +18,20 @@
  */
 package com.aceql.sdk.jdbc.examples;
 
+
+import org.kawanfw.test.util.MessageDisplayer;
+import com.aceql.jdbc.driver.free.AceQLDriver;
 import java.io.File;
 import java.io.IOException;
 import java.math.BigDecimal;
 import java.sql.Connection;
 import java.sql.Date;
+import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Timestamp;
-
-import org.kawanfw.driver.util.FrameworkFileUtil;
-import org.kawanfw.test.util.MessageDisplayer;
-
-import com.aceql.client.jdbc.AceQLConnection;
+import java.util.Properties;
 
 /**
  * 
@@ -59,27 +59,32 @@ public class MyRemoteConnection {
      *             if a database access error occurs
      */
 
-    public static Connection remoteConnectionBuilder() throws SQLException {
+	public static Connection remoteConnectionBuilder() throws SQLException, ClassNotFoundException {
 
-	// The URL of the AceQL Server servlet
-	// Port number is the port number used to start the Web Server:
-	String url = "https://www.aceql.com:9443/aceql";
+		// The URL of the AceQL Server servlet
+		// Port number is the port number used to start the Web Server:
+		String url = "http://www.runsafester.net:8081/aceql";
 
-	// The remote database to use:
-	String database = "kawansoft_example";
+		// The remote database to use:
+		String database = "sampledb";
 
-	// (username, password) for authentication on server side.
-	// No authentication will be done for our Quick Start:
-	String username = "username";
-	char[] password = { 'p', 'a', 's', 's', 'w', 'o', 'r', 'd' };
+		// (username, password) for authentication on server side.
+		// No authentication will be done for our Quick Start:
+		String username = "MyUsername";
+		String password = "MySecret";
 
-	// Attempt to establish a connection to the remote database:
-	Connection connection = new AceQLConnection(url, database, username,
-		password);
+		// Attempts to establish a connection to the remote database:
+		DriverManager.registerDriver(new AceQLDriver());
+		Class.forName(AceQLDriver.class.getName());
 
-	return connection;
-    }
+		Properties info = new Properties();
+		info.put("user", username);
+		info.put("password", password);
+		info.put("database", database);
 
+		Connection connection = DriverManager.getConnection(url, info);
+		return connection;
+	}
     /**
      * Main
      * 
@@ -91,7 +96,7 @@ public class MyRemoteConnection {
 	aceqlCodeToRun();
     }
 
-    public static void aceqlCodeToRun() throws SQLException, IOException {
+    public static void aceqlCodeToRun() throws SQLException, IOException, ClassNotFoundException {
 	int customerId = 1;
 	int itemId = 1;
 
@@ -172,7 +177,7 @@ public class MyRemoteConnection {
 	    prepStatement.setString(i++, "1 Madison Ave");
 	    prepStatement.setString(i++, "New York");
 	    prepStatement.setString(i++, "NY 10010");
-	    prepStatement.setString(i++, null);
+	    prepStatement.setString(i, null);
 
 	    prepStatement.executeUpdate();
 	    prepStatement.close();
@@ -198,7 +203,7 @@ public class MyRemoteConnection {
 	    // No Blob in this example.
 	    prepStatement.setBinaryStream(i++, null);
 	    prepStatement.setInt(i++, 1);
-	    prepStatement.setInt(i++, 2);
+	    prepStatement.setInt(i, 2);
 
 	    prepStatement.executeUpdate();
 	    prepStatement.close();
@@ -218,7 +223,7 @@ public class MyRemoteConnection {
      * 
      * @param customerId
      *            the Customer Id
-     * @parma itemId the Item Id
+     * @param itemId the Item Id
      * 
      * @throws SQLException
      */
@@ -257,7 +262,7 @@ public class MyRemoteConnection {
 
 	int i = 1;
 	prepStatement.setInt(i++, customerId);
-	prepStatement.setInt(i++, itemId);
+	prepStatement.setInt(i, itemId);
 
 	rs = prepStatement.executeQuery();
 
@@ -271,8 +276,7 @@ public class MyRemoteConnection {
 	    Date datePlaced = rs.getDate("date_placed");
 	    Timestamp dateShipped = rs.getTimestamp("date_shipped");
 	    // byte[] jpeg_image = rs.getBytes("jpeg_image");
-	    boolean is_delivered = (rs.getInt("is_delivered") == 1) ? true
-		    : false; // (a < b) ? a : b;
+	    boolean is_delivered = (rs.getInt("is_delivered") == 1) ; // (a < b) ? a : b;
 	    int quantity = rs.getInt("quantity");
 
 	    MessageDisplayer.display("customer_id : " + customerId2);

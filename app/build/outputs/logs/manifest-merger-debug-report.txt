@@ -1,88 +1,121 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:1:1-29:12
+ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6556a43c9e0ef833c2ca9a61e20c87ac/support-v4-25.3.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/620c2eb91583f5b6a6c1298447f01b14/support-fragment-25.3.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6bb5872bb35f9048f79f3d2d679832b4/support-media-compat-25.3.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/d91c4f3ef34387474005a8391ea691a9/support-core-utils-25.3.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/620143fa3d03fce53649a1b7d1d8368c/support-core-ui-25.3.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/2a26fb23a7b1cdebd02a5b7afb043877/support-compat-25.3.1/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:1:1-27:12
 	package
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:2:5-38
-		INJECTED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml
-		INJECTED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:4:5-30
-		INJECTED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml
-		INJECTED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml
-	android:versionCode
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:3:5-28
-		INJECTED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml
-		INJECTED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml
 uses-sdk
-ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:support-v4:25.3.1] /home/alex/.android/build-cache/d517d323b4cb3b83878780f447564709dfa460ee/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /home/alex/.android/build-cache/a6b0e18f5810c3104036a3a3e83ce15fe8092d36/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/alex/.android/build-cache/caf16b3ef5d54b695abacd9e25f3175783814d4b/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/alex/.android/build-cache/7a13d831403fe9e79546751e3cfb7263d3d9a5c2/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/alex/.android/build-cache/624143bd2e41cb9f80bafaa964b710932af43940/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] /home/alex/.android/build-cache/6f3354cbaf96f2106f575064cc28e2a42ff2992a/output/AndroidManifest.xml:21:5-23:58
+ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:6:5-47
+INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:6:5-47
+INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:6:5-47
+MERGED from [com.android.support:support-v4:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6556a43c9e0ef833c2ca9a61e20c87ac/support-v4-25.3.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6556a43c9e0ef833c2ca9a61e20c87ac/support-v4-25.3.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/620c2eb91583f5b6a6c1298447f01b14/support-fragment-25.3.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/620c2eb91583f5b6a6c1298447f01b14/support-fragment-25.3.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6bb5872bb35f9048f79f3d2d679832b4/support-media-compat-25.3.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6bb5872bb35f9048f79f3d2d679832b4/support-media-compat-25.3.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/d91c4f3ef34387474005a8391ea691a9/support-core-utils-25.3.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/d91c4f3ef34387474005a8391ea691a9/support-core-utils-25.3.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/620143fa3d03fce53649a1b7d1d8368c/support-core-ui-25.3.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/620143fa3d03fce53649a1b7d1d8368c/support-core-ui-25.3.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/2a26fb23a7b1cdebd02a5b7afb043877/support-compat-25.3.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/2a26fb23a7b1cdebd02a5b7afb043877/support-compat-25.3.1/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:6:5-47
+INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:6:5-47
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.3.1] /home/alex/.android/build-cache/d517d323b4cb3b83878780f447564709dfa460ee/output/AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6556a43c9e0ef833c2ca9a61e20c87ac/support-v4-25.3.1/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:8:9-38
-		INJECTED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml
-		INJECTED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:6:15-44
+		INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:7:9-35
-		INJECTED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml
-		INJECTED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:6:5-47
+		INJECTED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:10:5-67
+ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:8:5-67
 	android:name
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:10:22-64
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:8:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:11:5-79
+ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:11:22-76
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:9:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:12:5-81
+ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:12:22-78
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:10:22-78
 application
-ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:14:5-27:19
-MERGED from [com.android.support:support-v4:25.3.1] /home/alex/.android/build-cache/d517d323b4cb3b83878780f447564709dfa460ee/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /home/alex/.android/build-cache/a6b0e18f5810c3104036a3a3e83ce15fe8092d36/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/alex/.android/build-cache/caf16b3ef5d54b695abacd9e25f3175783814d4b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/alex/.android/build-cache/7a13d831403fe9e79546751e3cfb7263d3d9a5c2/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/alex/.android/build-cache/624143bd2e41cb9f80bafaa964b710932af43940/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /home/alex/.android/build-cache/6f3354cbaf96f2106f575064cc28e2a42ff2992a/output/AndroidManifest.xml:29:5-20
+ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:12:5-25:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6556a43c9e0ef833c2ca9a61e20c87ac/support-v4-25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6556a43c9e0ef833c2ca9a61e20c87ac/support-v4-25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/620c2eb91583f5b6a6c1298447f01b14/support-fragment-25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/620c2eb91583f5b6a6c1298447f01b14/support-fragment-25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6bb5872bb35f9048f79f3d2d679832b4/support-media-compat-25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6bb5872bb35f9048f79f3d2d679832b4/support-media-compat-25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/d91c4f3ef34387474005a8391ea691a9/support-core-utils-25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/d91c4f3ef34387474005a8391ea691a9/support-core-utils-25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/620143fa3d03fce53649a1b7d1d8368c/support-core-ui-25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/620143fa3d03fce53649a1b7d1d8368c/support-core-ui-25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/2a26fb23a7b1cdebd02a5b7afb043877/support-compat-25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/2a26fb23a7b1cdebd02a5b7afb043877/support-compat-25.3.1/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:16:9-41
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:14:9-41
 	android:icon
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:15:9-45
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:13:9-45
 	android:theme
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:17:9-40
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:15:9-40
 activity#org.kawanfw.sql.android.MainActivity
-ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:18:9-26:20
+ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:16:9-24:20
 	android:label
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:20:13-45
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:18:13-45
 	android:name
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:19:13-64
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:21:13-25:29
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:17:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /home/alex/AndroidStudioProjects/aceql-android-test/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /home/alex/Documents/Kawan/AceQL/aceql-http-client-android-sample/app/src/main/AndroidManifest.xml:22:27-74
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:25.3.1] /home/alex/.android/build-cache/d517d323b4cb3b83878780f447564709dfa460ee/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /home/alex/.android/build-cache/a6b0e18f5810c3104036a3a3e83ce15fe8092d36/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/alex/.android/build-cache/caf16b3ef5d54b695abacd9e25f3175783814d4b/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/alex/.android/build-cache/7a13d831403fe9e79546751e3cfb7263d3d9a5c2/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/alex/.android/build-cache/624143bd2e41cb9f80bafaa964b710932af43940/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] /home/alex/.android/build-cache/6f3354cbaf96f2106f575064cc28e2a42ff2992a/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:support-v4:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6556a43c9e0ef833c2ca9a61e20c87ac/support-v4-25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/620c2eb91583f5b6a6c1298447f01b14/support-fragment-25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/620c2eb91583f5b6a6c1298447f01b14/support-fragment-25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6bb5872bb35f9048f79f3d2d679832b4/support-media-compat-25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6bb5872bb35f9048f79f3d2d679832b4/support-media-compat-25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/d91c4f3ef34387474005a8391ea691a9/support-core-utils-25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/d91c4f3ef34387474005a8391ea691a9/support-core-utils-25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/620143fa3d03fce53649a1b7d1d8368c/support-core-ui-25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/620143fa3d03fce53649a1b7d1d8368c/support-core-ui-25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/2a26fb23a7b1cdebd02a5b7afb043877/support-compat-25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/2a26fb23a7b1cdebd02a5b7afb043877/support-compat-25.3.1/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:support-v4:25.3.1] /home/alex/.android/build-cache/d517d323b4cb3b83878780f447564709dfa460ee/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:support-v4:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6556a43c9e0ef833c2ca9a61e20c87ac/support-v4-25.3.1/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:support-v4:25.3.1] /home/alex/.android/build-cache/d517d323b4cb3b83878780f447564709dfa460ee/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:support-v4:25.3.1] /home/alex/.gradle/caches/transforms-2/files-2.1/6556a43c9e0ef833c2ca9a61e20c87ac/support-v4-25.3.1/AndroidManifest.xml:26:9-47
