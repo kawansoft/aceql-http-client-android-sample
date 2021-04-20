@@ -1,5 +1,5 @@
 # aceql-http-client-android-sample - v5.0
-# April April 6, 2021
+# April 6, 2021
 
 <img src="https://www.aceql.com/favicon.png" alt=""/>
 
